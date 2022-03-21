@@ -1,0 +1,123 @@
+@charset "UTF-8";
+@media screen and (max-width:693px) 
+{
+    article {
+    font-size:10px;
+    max-height: 500px;
+    width: auto;
+    }   
+    #parallax01 {
+        max-height: 500px ;
+        background-position: 90%;
+    }
+    #parallax02 {
+        max-height: 500px ;
+        background-position: 90%;
+    }
+    footer{
+        font-size:20px;
+        text-align: center;
+        background-color: black;
+        color: #BDDBAF;
+    }
+}
+* {
+    margin: 0px;
+    padding: 0%;  
+}
+@font-face {
+    font-family: passiononebold;
+    src: url(pacote-d012/Passion_One/PassionOne-Bold.ttf);
+}
+@font-face {
+    font-family: sriracha;
+    src: url(pacote-d012/Sriracha/Sriracha-Regular.ttf);
+}
+header{
+    text-align: right;
+    padding: 20px;
+    line-height: 70px;
+    background-color: black;
+    color: white;  
+    font-family:passiononebold ;
+}
+h1 {
+    text-align: center;
+   font-size: 110px;
+   padding: 5px;
+}
+p{
+    font-family: sriracha;
+    text-align: center;
+    padding-left: 15px;
+}
+a{
+    text-decoration: none;
+    color: #BDDBAF;
+}
+a:hover {
+    color: #41b10de0;
+}
+span{
+    color:#BDDBAF ;
+}
+span:hover {
+    color: #41b10de0;
+}
+.parallax {
+    position: relative;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 65%;
+}
+#parallax01 {
+    background-image: url(pacote-d012/imagens/background001.jpg);
+    width: auto;
+    height: 800px;
+    font-size:3em;
+}
+#parallax02 {
+    background-image: url(pacote-d012/imagens/background002.jpg);
+    width: auto;
+    height: 800px ;
+    font-size:3em;  
+}
+#nerd1 {
+    width: auto;
+    height: 800px ;
+    font-size: 3em;
+    background-color: #BDDBAF; 
+}
+#nerd2 {
+    width: auto;
+    height: 800px ;
+    font-size: 3em;
+    background-color: #BDDBAF;
+    font-size:3em;
+}
+#nerd3 {
+    width: auto;
+    max-height: 800px ;
+    font-size: 3em;
+    background-color: #BDDBAF;
+    font-size:3em;
+}
+#nerd4 {
+    max-width: auto;
+    max-height: 1600px ;
+    font-size: 3em;
+    background-color: #BDDBAF;
+}
+footer{
+    font-size:20px;
+    text-align: center;
+    background-color: black;
+    color: #BDDBAF;
+}
+
+
+
+
+
+
+
