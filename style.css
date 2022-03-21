@@ -3,7 +3,7 @@
 {
     article {
     font-size:10px;
-    max-height: 500px;
+    max-height: 1000px;
     width: auto;
     }   
     #parallax01 {
@@ -19,6 +19,9 @@
         text-align: center;
         background-color: black;
         color: #BDDBAF;
+    }
+    header h1 {
+        font-size: 55px;
     }
 }
 * {
@@ -84,23 +87,15 @@ span:hover {
 }
 #nerd1 {
     width: auto;
-    height: 800px ;
+    height: 450px ;
     font-size: 3em;
     background-color: #BDDBAF; 
 }
 #nerd2 {
     width: auto;
-    height: 800px ;
+    max-height: 1700px ;
     font-size: 3em;
     background-color: #BDDBAF;
-    font-size:3em;
-}
-#nerd3 {
-    width: auto;
-    max-height: 800px ;
-    font-size: 3em;
-    background-color: #BDDBAF;
-    font-size:3em;
 }
 #nerd4 {
     max-width: auto;
