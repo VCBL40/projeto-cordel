@@ -9,10 +9,13 @@
     #parallax01 {
         max-height: 500px ;
         background-position: 90%;
+        font-weight: bolder;
+        box-shadow: 5px rgba(0, 0, 0, 0.384);
     }
     #parallax02 {
         max-height: 500px ;
         background-position: 90%;
+        font-weight: bolder;
     }
     footer{
         font-size:20px;
