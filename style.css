@@ -9,8 +9,7 @@
     #parallax01 {
         max-height: 500px ;
         background-position: 90%;
-        font-weight: bolder;
-        
+        font-weight: bolder; 
     }
     #parallax02 {
         max-height: 500px ;
@@ -27,7 +26,6 @@
         font-size: 55px;
     }
     article #nerd1 { max-height: 500px;
-
     }
 }
 * {
@@ -78,15 +76,13 @@ span:hover {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 65%;
-    
 }
 #parallax01 {
     background-image: url(pacote-d012/imagens/background001.jpg);
     width: auto;
     height: 800px;
     font-size:3em;
-    font-weight: bolder;
-   
+    font-weight: bolder;   
 }
 #parallax02 {
     background-image: url(pacote-d012/imagens/background002.jpg);
